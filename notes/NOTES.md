@@ -30,3 +30,23 @@
 | |--Navigation <br />
 |--Main {different based on page} <br />
 |--Footer <br />
+
+## 24/05/2025
+
+- Have blueprint of how each page is going to look(in my notebook)
+- What i want to add
+  - Search functionality
+  - sort feature for page
+  - category selection
+  - horizontal carousel
+  - a vertical carousel based on button clicked
+  - a continuous train of logos flowing on a belt
+  - some moving parts, like pulling or stretching on elements to show their movements
+  - a small circle indicating no. of items in cart in header
+- I will first make the shop page and the checkout page and that's where the total functionality of app is
+- I have added most of the components which i will use. The rest will be added as i code.
+- I added the routes for navigation.
+- Tomorrow i would like to:
+  - add SearcParams for ShopPage
+  - Link, so the pages do not refresh
+  - fetch functionality

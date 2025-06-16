@@ -50,3 +50,20 @@
   - add SearcParams for ShopPage
   - Link, so the pages do not refresh
   - fetch functionality
+
+## 16/06/2025
+
+Took a little break but we back again.
+
+- Added shop page, product page, checkout page
+- Added pagination, sort filter and category selection for shop page
+- Added "Add to cart" function for Product page
+- Added Checkout page functionality
+
+What I want to do next:
+
+- carousel for product page
+- search functionality
+- navigation fucntionality
+- proper footer and header
+- better css
